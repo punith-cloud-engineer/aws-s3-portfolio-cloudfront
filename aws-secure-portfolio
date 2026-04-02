@@ -1,0 +1,47 @@
+# 🌐 AWS S3 Portfolio Website with HTTPS & IAM Security
+
+## 📌 Project Overview
+This project demonstrates the deployment and securing of my personal portfolio website using AWS. The website is hosted on **Amazon S3** and delivered via **CloudFront**. I enhanced its security by enabling **HTTPS** and configuring **IAM permissions**, following AWS best practices.
+
+This is part of my journey toward becoming an **AWS Community Builder**, learning **Cloud, DevOps, and AI** concepts.
+
+---
+
+## 🛠️ Services Used
+- Amazon S3 (Static Website Hosting)  
+- Amazon CloudFront (Content Delivery Network)  
+- AWS IAM (Identity and Access Management)  
+
+---
+
+## ⚙️ What I Implemented
+- Hosted the portfolio website on S3  
+- Configured CloudFront for fast global delivery  
+- Enabled HTTPS for secure access  
+- Set up IAM permissions to control access  
+- Learned and applied AWS Cloud Practitioner concepts:
+  - Scalability
+  - Elasticity
+  - Amazon SQS (Simple Queue Service)
+  - Amazon SNS (Simple Notification Service)
+
+---
+
+[Visit My Portfolio](http://aw-portfo.s3-website.eu-north-1.amazonaws.com)
+
+
+## 🧠 Key Learnings
+- How to securely deploy static websites on AWS  
+- Understanding of scalability and elasticity in cloud computing  
+- Hands-on experience with SQS and SNS for messaging and notifications  
+- Best practices for IAM permissions and HTTPS configuration  
+
+---
+
+## ⭐ Conclusion
+This project marks a significant step in my cloud learning journey. By hosting my portfolio securely and understanding core cloud concepts, I have built a strong foundation in **AWS Cloud Practitioner skills**, **security best practices**, and **scalable architecture design**. This project will serve as the base for my next step: **automating deployment using DevOps CI/CD pipelines**.  
+
+---
+
+## 📖 Blog
+[Read the full blog on Dev.to](https://dev.to/punith_gp_942a758bec5510/securing-my-aws-portfolio-website-with-https-and-iam-31lc)
